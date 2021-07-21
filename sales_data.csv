@@ -1,0 +1,10 @@
+executive_id,sale_date,model,brand,vehicle,Sno
+101,21/07/2021,Thor,Mahindra,car,1
+101,21/07/2021,Bolero,Mahindra,car,2
+101,21/07/2021,FZ-X,Yamaha,Bike,3
+101,21/07/2021,MT-15,Yamaha,Bike,4
+102,20/07/2021,Alcazar,Hyundai,car,1
+102,20/07/2021,Creta,Hyundai,car,2
+102,20/07/2021,Apache,TVS,Bike,3
+102,20/07/2021,Bullet,Royal Enfield,Bike,4
+103,19/07/2021,Motor,TVC,Bicycle,1
