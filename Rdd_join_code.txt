@@ -1,0 +1,65 @@
+package com.sravana.videos
+
+import org.apache.spark.sql.SparkSession
+import org.apache.spark.broadcast.Broadcast
+
+object RddJoins {
+  
+  def main(args: Array[String]){
+    
+    System.setProperty("hadoop.home.dir","C:/hadoop" );
+    
+     val spark = SparkSession
+                  .builder()
+                  .appName("RDD Join Operations")
+                  .master("local")
+                  .getOrCreate()
+    
+     val rdd1 = spark.sparkContext.textFile("products.csv")
+     val rdd2 = spark.sparkContext.textFile("categories.csv")
+     
+     val pair_rdd1 = rdd1.map(x => x.split(",")).map(x =>(x(1),(x(0),x(1),x(2),x(3),x(4),x(5))))
+     val pair_rdd2 = rdd2.map(x => x.split(",")).map(y => (y(0), (y(0),y(1),y(2))))
+     val join_rdd = pair_rdd1.join(pair_rdd2)
+     
+     // join_rdd.take(5).foreach(println)
+     
+     val left_join_rdd = pair_rdd2.leftOuterJoin(pair_rdd1)
+     // left_join_rdd.take(5).foreach(println)
+     
+     val right_join_rdd = pair_rdd1.rightOuterJoin(pair_rdd2)
+     
+     pair_rdd1.fullOuterJoin(pair_rdd2)
+     
+     val rdd_1 = spark.sparkContext.parallelize(Seq((111,"Apple",101,10000),
+                                                    (112,"Banana",101,12000),
+                                                    (113,"Carrot",102,15000),
+                                                    (114,"Cabbage",102,12000),
+                                                    (115,"Beans",102,10000),
+                                                    (116,"Grapes",104,11000)))
+     val rdd_2 = spark.sparkContext.parallelize(Seq((101,"Fruits","FRT"),
+                                                   (102,"Vegetables","VGT"),
+                                                   (103,"Drinks","DRNK")))
+      
+     val first_rdd = rdd_1.map(x => (x._3,(x._1,x._2,x._4)))
+     val second_rdd = rdd_2.map(x => (x._1,(x._2,x._3)))
+     
+     val join_rdd_1 = first_rdd.join(second_rdd)
+     println("Inner Join : ")
+     join_rdd_1.take(10).foreach(println)
+     
+     println("Full Outer Join : ")
+     first_rdd.fullOuterJoin(second_rdd).take(10).foreach(println)
+     
+     println("Left Outer Join : ")
+     first_rdd.leftOuterJoin(second_rdd).take(10).foreach(println)
+     
+     println("Right Outer Join : ")
+     first_rdd.rightOuterJoin(second_rdd).take(10).foreach(println)
+     
+     
+     val join_rdd_2 = join_rdd_1.map(x => ((x._2._1._1,x._2._1._2,x._2._2._1 ))).foreach(println)
+     
+  }
+  
+}
