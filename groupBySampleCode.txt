@@ -1,0 +1,14 @@
+%python
+df1 = spark.read.format("csv").load("/products.csv").toDF("product_id","product_category_id","product_name","product_description","product_price","product_image")
+df2 = spark.read.format("csv").load("/categoroes.csv").toDF("category_id","category_department_id","category_name")
+
+from pyspark.sql import functions as f
+agg_list = f.sum("product_price")
+df2 = df1.groupBy("product_category_id").agg(agg_list.alias("total_sales")).withColumn("product_description", f.lit("product 1"))
+df2.show()
+
+join_condition = (df1["product_category_id"] == df3["category_id"])
+df4 = df1.join(df3, join_condition).groupBy("category_id").agg(agg_list.alias("total_sales")).withColumn("product_description", f.lit("product 1"))
+df4.show()
+
+
