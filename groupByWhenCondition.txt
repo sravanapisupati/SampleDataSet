@@ -1,0 +1,4 @@
+# Get the total order_item_sub_total for each order_item_order_id. update the price as 100  for the products which are having order_item_quatity <2, for others have the same price
+when_expr = f.col("order_item_quantity") > f.lit("1")
+res_df = order_df.groupBy("order_item_order_id").agg(f.sum(f.when(when_expr , f.col("order_item_subtotal") ).otherwise(f.lit("100.0"))).alias("total_sales"))
+res_df.filter("order_item_order_id == 2").show()
