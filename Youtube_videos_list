@@ -1,0 +1,133 @@
++---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|Sno|Descirption                                                                                                   |Youtube Link                               |
++---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|1  |Handling corrupted records in a JSON | Spark SQL with Scala                                                   |https://www.youtube.com/watch?v=Y-targncXxg|
+|2  |Partitions | map vs mapPartition Vs MapPartitionWithIndex  | Spark with Scala                                 |https://youtu.be/RL7Oa88G5dQ               |
+|3  |Applying Header Dynamically to a Dataframe | Spark With Scala                                                 |https://youtu.be/2_NksorupUg               |
+|4  |Spark Shuffle Operations | Spark with Scala | reduceByKey Vs groupBykey                                       |https://youtu.be/SNqaBF8alnA               |
+|5  |foldByKey | Spark with Scala | Shuffle Operations - part2                                                     |https://youtu.be/sIfan6Qqmps               |
+|6  |AggregateByKey | Spark with Scala| Shuffle Operations - Part3                                                 |https://youtu.be/6bJKb3sQJjM               |
+|7  |CombineByKey | Spark with Scala | Shuffle Operation - Part 4                                                  |https://youtu.be/URp3iy83fEw               |
+|8  |reduceByKey Vs GroupByKey Vs foldByKey Vs aggregateByKey Vs combineByKey - Part - 6| Spark with Scala | part-5|https://youtu.be/sI5XGQt4p3k               |
+|9  |sortByKey | Spark with Scala| Shuffle Operation - Part - 6                                                    |https://youtu.be/AxND16PcgEE               |
+|10 |Spark Joins | Spark Shuffle operations - Part - 7| Spark with Scala                                           |https://youtu.be/z6iIFhDYg-c               |
+|11 |CoGroup Vs Join | Shuffle Operations - Part 8 | Spark with Scala                                              |https://youtu.be/DW1HDBhDTfQ               |
+|12 |Distinct Vs DropDuplicates | Shuffle Operations - Part9 | Spark with Scala                                    |https://youtu.be/Vrs011lwrmM               |
+|13 |Explode | Explode_Outer| Posexplode | Posexplode_outer| Spark with Scala                                      |https://youtu.be/-4DJKW3W5qM               |
+|14 |Reading XML file as a DataFrame in Spark SQL with Scala                                                       |https://youtu.be/shUcdR1DAdU               |
+|15 |Writing a Dataframe as XML format in Spark SQL Using Scala                                                    |https://youtu.be/fVZOjMTDvuM               |
+|16 |Reading a Nested XML as a DataFrame | Spark SQL with Scala                                                    |https://youtu.be/qkiz53baIks               |
+|17 |Reading Parquet File as a DataFrame | Spark with Scala | Applying filter transformation                       |https://youtu.be/Qd8NFB-5mlg               |
+|18 |Writing a DataFrame into Parquet File | Spark with Scala                                                      |https://youtu.be/NBhyPdBh8o0               |
+|19 |Reading Avro File as a DataFrame | Spark SQL with Scala                                                       |https://youtu.be/GrqVvfqZIwg               |
+|20 |Reading/ Writing AVRO File format in Spark using Scala | Hive Table Creation from Spark                       |https://youtu.be/0FjdOfqRDqo               |
+|21 |Schema Merge | Schema Evolution | Parquet| Spark with Scala                                                   |https://youtu.be/w2EJATgekUo               |
+|22 |Finding Highest Salary of an Employee using Spark with Scala | Window functions | rank | dense_rank           |https://youtu.be/pS6VikfzfBg               |
+|23 |Coalesce in Spark SQL | Scala                                                                                 |https://youtu.be/Og1ZlVUc6cM               |
+|24 |Creating Hive table from Spark using Scala | Scenario based question | Hive Catalog function                  |https://youtu.be/QfgEaR6BPLg               |
+|25 |Dealing Multi source CSV file in Spark SQL | json_tuple | CSV & JSON in a single file | using Scala           |https://youtu.be/P6d_6i71u70               |
+|26 |Using toJSON and from_json in Spark with Scala                                                                |https://youtu.be/mVBGuGjJuQE               |
+|27 |Date Functions in Spark SQL with Scala | Spark coding interview questions                                     |https://youtu.be/DAwKI-YR6w0               |
+|28 |map vs flatMap vs mapValues vs flatMapValues | Spark with Scala | Coding Interview questions                  |https://youtu.be/HmN3pJ6dFy0               |
+|29 |Resolving winutils.exe binary and (null) entry in command string: null Exceptions | Spark with Scala          |https://youtu.be/jBI0rb2f114               |
+|30 |UnionByName | Combining 2 DataFrames | Spark with Scala                                                       |https://youtu.be/4cAYUw-wdHk               |
+|31 |Broadcast variables usage in Spark with Scala | Spark Interview Question | performance Management             |https://youtu.be/wF1OmxnN77E               |
+|32 |Cache Vs Persist in Spark with Scala - Part 1 | Spark Interview Questions                                     |https://youtu.be/YqJdMIloMzU               |
+|33 |Storage Levels while persisting in Spark - Part 2 | Spark with Scala | Optimization techniques                |https://youtu.be/EmvJ2nlT9Ic               |
+|34 |UDF creation and usage in Spark SQL | DataFrame | Spark with Scala                                            |https://youtu.be/R4ZlIY2E0Kk               |
+|35 |Deploying Spark Application in the cluster through Shell Script - Part 1 | spark-submit                       |https://youtu.be/APb6vwQz1_M               |
+|36 |Finding no. of occurrences of a hashtag in a tweets | Spark with Scala | Coding interview question            |https://youtu.be/kiBvw1m5CJI               |
+|37 |RDD Transformations in Spark with Scala - Part 1 | Spark Coding Interview questions                           |https://youtu.be/InYqthDjn5I               |
+|38 |RDD Transformations - part 2 | Spark with Scala | Spark Technical Interview questions                         |https://youtu.be/ooRSu2d7wWI               |
+|39 |RDD Transformations - part 3 | Spark with Scala | Technical Interview questions                               |https://youtu.be/MNWUQ5dGQT0               |
+|40 |RDD Transformations - part 4 | Spark with Scala | Technical Interview questions                               |https://youtu.be/XDLWgZ5GGUA               |
+|41 |RDD Transformations - part 5 | Spark with Scala | Technical Interview questions                               |https://youtu.be/AepDmIRTD9U               |
+|42 |RDD Transformations - part 6 | Spark with Scala | Technical Interview questions                               |https://youtu.be/V6TvvKSJIiY               |
+|43 |Working with Array[Array[Int]] in RDD | RDD Transformations - Part 7 | Spark with Scala                       |https://youtu.be/urbmW2DZv1w               |
+|44 |Working with LIST(Array) in RDD | RDD Transformations Part-8 | Spark with Scala                               |https://youtu.be/iWiSE5AzDmA               |
+|45 |Splitting Columns into multiple columns in a DF | Spark with Scala| Dealing with Multiple delimiters          |https://youtu.be/KD0Xf2kMcvc               |
+|46 |Using Pivot() in Spark SQL with Scala | Scenario based question                                               |https://youtu.be/9tSnm3Jj9Zs               |
+|47 |Converting DataFrame columns as a single String in Spark SQL with Scala | Scenario based question             |https://youtu.be/mhuaKXRXar0               |
+|48 |Adding Columns Dynamically to a DataFrame in Spark SQL using Scala                                            |https://youtu.be/Xsl3u1ZobqM               |
+|49 |FoldLeft() | Replacing all the Column names at one go dynamically in a DF in Spark SQL using Scala            |https://youtu.be/BtUwz_82z84               |
+|50 |Resolving ERROR SparkUI: Failed to bind SparkUI java.net.BindException in Spark with Scala                    |https://youtu.be/ze6CeSW_gR4               |
+|51 |Regexp_replace and ReplaceAll in Spark SQL using Scala | Replacing multiple delimiters at a time              |https://youtu.be/9cxFiE2D0R4               |
+|52 |Skipping lines in a Header by adding unique Id  | Spark with Scala | monotonically_increasing_id              |https://youtu.be/r8HM4dMbTv0               |
+|53 |Converting ScalaMap to individual columns in a DF | SparkSQL & Scala | Spark Scenario based question          |https://youtu.be/T1bUfJlZ4Ow               |
+|54 |Spark Structured Streaming using Scala | Streaming files from a folder                                        |https://youtu.be/aKlNDT85J68               |
+|55 |Spark Structured Streaming with Kafka using Scala                                                             |https://youtu.be/Ee1nCxVkB0M               |
+|56 |Joining 3 or more tables in Spark Dataframe API using  Scala | Scenario-based questions | Part -1             |https://youtu.be/IERCQsKFcx0               |
+|57 |Joining 3 or more tables using Spark SQL queries with Scala | Scenario-based questions | Part -2              |https://youtu.be/rIPXuRboZmw               |
+|58 |When-Otherwise | Case When end | Spark with Scala | Scenario-based questions                                  |https://youtu.be/JuC33dwANOw               |
+|59 |Pairing Array elements which equals to the given SUM value |Spark with Scala |Reading irregular/ uneven data  |https://youtu.be/DDU71N5cWQQ               |
+|60 |Scala Tutorials - Day 1 | Introduction                                                                        |https://youtu.be/5oVMNKK5N-E               |
+|61 |Scala Tutorials - Day 2- Basic Datatypes                                                                      |https://youtu.be/gXqxNahoHfY               |
+|62 |Scala Tutorials - Day 3 - Flow Control in Scala                                                               |https://youtu.be/8dcrFLd2SIk               |
+|63 |Scala Tutorials - Day 4 | Scala Functions                                                                     |https://youtu.be/fEhJxungiDo               |
+|64 |Scala Tutorials - Day 5 | Scala Functions - Part 2                                                            |https://youtu.be/1DixSY8FEMY               |
+|65 |Scala Tutorials - Day 6 | Scala Functions - Part 3 | Anonymous-HO-Closure-Composition in Scala                |https://youtu.be/6n-F2A7PkWs               |
+|66 |Scala Tutorials - Day 7 | Data Structures in Scala - Tuples                                                   |https://youtu.be/4Gb2P3-f23s               |
+|67 |Scala Tutorials - Day 8 | Data Structures in Scala - Lists                                                    |https://youtu.be/SzNiiRVNz-s               |
+|68 |Scala Tutorials - Day 9 | Scala Maps - Part 1                                                                 |https://youtu.be/j_T6IhE0yz0               |
+|69 |Scala Tutorials - Day 10 | Scala Maps - Part 2                                                                |https://youtu.be/Fz64DATz0XE               |
+|70 |Scala Tutorials - Day 11 | Scala Sequence                                                                     |https://youtu.be/qL7RDJ22k9g               |
+|71 |Scala Tutorials - Day 12 | Scala Sets                                                                         |https://youtu.be/FvQE_9RCpFw               |
+|72 |Scala Tutorials - Day 13 | Scala Mutable Vs Immutable collections                                             |https://youtu.be/IoqsBSmTDr4               |
+|73 |Scala Tutorials - Day 14 | Scala Class                                                                        |https://youtu.be/ni7VA36RB08               |
+|74 |Scala Tutorials - Day 15 | Scala Constructors                                                                 |https://youtu.be/Mojcek0ihr4               |
+|75 |Scala Tutorials - Day 16 | Scala Singleton Object                                                             |https://youtu.be/A3HgeVn1UiQ               |
+|76 |Scala Tutorials - Day 17 | Scala Companion Object                                                             |https://youtu.be/zke1PckMvDI               |
+|77 |Scala Tutorials - Day 18 | Scala Abstract Classes                                                             |https://youtu.be/I8v77j_vFlw               |
+|78 |Scala Tutorials - Day 19 | Scala Traits                                                                       |https://youtu.be/1HsiiMpMfk0               |
+|79 |Scala Tutorials - Day 20 | Scala Trait Mixins                                                                 |https://youtu.be/2dWdBa4rwkI               |
+|80 |Scala Tutorials - Day 21 | Scala Final Keyword                                                                |https://youtu.be/rZG3S0nXaoM               |
+|81 |Scala Tutorials - Day 22 | Scala Access Modifiers                                                             |https://youtu.be/2Rpf-f-JqkQ               |
+|82 |Scala Tutorials - Day 23 | Scala Types - Null/ null- Nil - None - Nothing & Unit                              |https://youtu.be/whvxTi5IBLI               |
+|83 |Scala Tutorials - Day 24 | Scala Option                                                                       |https://youtu.be/c3CIcW68tUA               |
+|84 |Scala Tutorials - Day 25 | MultiThreading in Scala                                                            |https://youtu.be/5yxwJ_ukLj8               |
+|85 |Scala Tutorials - Day 26 | Scala Tail Recursion | Fibonacci Series                                            |https://youtu.be/Ig5zVfZAkZA               |
+|86 |Scala Tutorials - Day 27 | For...yield                                                                        |https://youtu.be/U_7X1CyV9f0               |
+|87 |Scala Tutorials - Day 28 | Exception Handling in Scala                                                        |https://youtu.be/hD9Vp4_KA6c               |
+|88 |Scala Tutorials - Day 29 | Future Keyword in Scala                                                            |https://youtu.be/TfjjSKMIRLo               |
+|89 |Scala Tutorials - Day 30 | Scala Annotations                                                                  |https://youtu.be/6d-s68-EBHc               |
+|90 |Unifying Different Date formats Dynamically in Spark with Scala | DataFrame | foldLeft                        |https://youtu.be/b7r2xz0peEM               |
+|91 |Working with Unix Timestamp (EPOCH) in Spark SQL with Scala                                                   |https://youtu.be/fPax8SG0DVo               |
+|92 |Reading XML data from a CSV file in Spark SQL with Scala | MultiSource Data - CSV & XML                       |https://youtu.be/TGwTWA2aWf4               |
+|93 |Hadoop Vs Spark | Mapreduce Vs Spark | Spark Interview Questions                                              |https://youtu.be/Q_SSEvT2woU               |
+|94 |What is Spark | Spark Interview Questions                                                                     |https://youtu.be/ZJ8nxVgt9Ug               |
+|95 |Spark Architecture | Spark Interview Questions                                                                |https://youtu.be/B--5UdguNjo               |
+|96 |Spark Memory Management | How to calculate the cluster Memory in Spark                                        |https://youtu.be/CrLXa9hEprE               |
+|97 |What is Pyspark | PySpark Advantages | Anaconda Installation | Databricks                                     |https://youtu.be/WZzf1AJ_7HU               |
+|98 |What is Python| Python Advantages | Spark Interview Questions                                                 |https://youtu.be/VlLlRIOBF5Q               |
+|99 |Python Tutorials - Day 2 | Python Basic Datatypes                                                             |https://youtu.be/p2cqiPrn-Iw               |
+|100|Python Tutorials - Day 3 | Conditional Statements in Python                                                   |https://youtu.be/K7en9t2xxLo               |
+|101|Python Tutorials - Day 4 | For and while loops in Python                                                      |https://youtu.be/fmJSjrDx3yo               |
+|102|Python Tutorials - Day 5 | Lists in Python                                                                    |https://youtu.be/eXuxfNTDVK4               |
+|103|Python Tutorials - Day 6 | Tuples in Python                                                                   |https://youtu.be/tn5oWVYvqNY               |
+|104|Python Tutorials - Day 7 | Dictionaries in Python                                                             |https://youtu.be/bBfSvgtEuHY               |
+|105|Python Tutorials - Day 8 | Functions in Python                                                                |https://youtu.be/rAa5M_VRCz8               |
+|106|Python Tutorials - Day 9 | Lambda function in Python                                                          |https://youtu.be/r43eVysDDCg               |
+|107|Python Tutorials - Day 10| Python hands-on | Python Coding interview related                                  |https://youtu.be/Qd6FPGfXuZc               |
+|108|Python Tutorials - Day 11| Python hands-on - part 2 | Python Coding interview                                 |https://youtu.be/3s55usoorR0               |
+|109|Python Tutorials - Day 12 |  File Operations in Python                                                        |https://youtu.be/FI8v7R8Lx0M               |
+|110|Python Tutorials - Day 13| File Operations in Python - 1 | Looping through the records in a file              |https://youtu.be/WVm07K4ktlU               |
+|111|Reading inputs from runtime configuration | Reading spark-submit arguments                                    |https://youtu.be/TpF22Mw4V7E               |
+|112|Checking if a list of columns present in a DataFrame | Pyspark                                                |https://youtu.be/lCJ8IkhP1Pc               |
+|113|Working with Avro format files in PySpark| Using DataFrame APIs | Using spark.sql commands                    |https://youtu.be/FK8le4Wd1aQ               |
+|114|Hive Operations through Spark with Scala                                                                      |https://youtu.be/GEawFKK7GGs               |
+|115|Spark Optimization techniques | Spark Interview Questions                                                     |https://youtu.be/5N0CWeRJ3NU               |
+|116|MSCK Repair for recovering the Hive Partitions | Spark with Hive | Spark Interview Questions                  |https://youtu.be/1vBMn5nLLqs               |
+|117|What is Shuffle | How to minimize shuffle in Spark | Spark Interview Questions                                |https://youtu.be/mwKTa4GDRQo               |
+|118|Understanding Stages in Spark UI for a Spark Job | Spark Interview Questions                                  |https://youtu.be/lHJc0rEqjoU               |
+|119|Joining  RDDs in Spark| Types of Joins available for RDD | Spark Interview Questions                          |https://youtu.be/CeZEfkmYN8g               |
+|120|Catalyst Optimizer in Spark SQL| Logical Plan Vs Physical Plan                                                |https://youtu.be/J6s8PxdxKPM               |
+|121|Catalyst Optimizer in Spark SQL| Checking the various plans in Eclipse | Spark Interview Questions            |https://youtu.be/DKLhGMAx0bg               |
+|122|Adaptive Query Execution (AQE) in Spark | Spark Interview Questions                                           |https://youtu.be/JjyUyEbOEYI               |
+|123|Deployment modes in Spark| Client mode Vs Cluster mode| Spark Interview Questions                             |https://youtu.be/BLut7duRhTM               |
+|124|Spark memory allocation and reading large files| Spark Interview Questions                                    |https://youtu.be/rBxRBk2ZkVk               |
+|125|Using groupBy in Pyspark | Realtime Scenario| Spark Interview Questions                                       |https://youtu.be/texiQ_79-98               |
+|126|Uploading a file from local machine to DataBricks and creating a Dataframe                                    |https://youtu.be/RmM8jb6k7kI               |
+|127|Cleansing the CSV data and processing in Pyspark| Scenario based question| Spark Interview Questions          |https://youtu.be/XuEQ_t93Ico               |
+|128|Descriptive Statistics in PySpark | Mean-Count-Min-Max-Std Deviation| Spark Interview Questions               |https://youtu.be/eJMIxUfokag               |
+|129|UDF in Pyspark | User defined functions | Spark Interview Questions                                           |https://youtu.be/r63XO0CFrIg	              |
++---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
