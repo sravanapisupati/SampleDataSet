@@ -129,5 +129,11 @@
 |126|Uploading a file from local machine to DataBricks and creating a Dataframe                                    |https://youtu.be/RmM8jb6k7kI               |
 |127|Cleansing the CSV data and processing in Pyspark| Scenario based question| Spark Interview Questions          |https://youtu.be/XuEQ_t93Ico               |
 |128|Descriptive Statistics in PySpark | Mean-Count-Min-Max-Std Deviation| Spark Interview Questions               |https://youtu.be/eJMIxUfokag               |
-|129|UDF in Pyspark | User defined functions | Spark Interview Questions                                           |https://youtu.be/r63XO0CFrIg	              |
+|129|UDF in Pyspark | User defined functions | Spark Interview Questions                                           |https://youtu.be/r63XO0CFrIg	             |
+|130|RDD vs Dataframe vs Dataset  | With sample code | Spark Interview Questions                                   |https://youtu.be/HYEOvTOth8A	             |
+|131|Converting CSV to Nested JSON/ Dictionary format in PySpark | Realtime scenario                               |https://youtu.be/zhbMKX9eIPM	             |
+|132|Applying headers dynamically to a Dataframe in PySpark | Without hardcoding schema                            |https://youtu.be/mnnSHpql-l0	             |
+|133|Renaming Columns dynamically in a Dataframe in PySpark | Without hardcoding| Realtime scenario                |https://youtu.be/vv9yOm1kKb0	             |
+|134|Adding Columns dynamically to a Dataframe in PySpark | Without hardcoding | Realtime scenario                 |https://youtu.be/_tibdLcxi3s	             |
+|135|(Re-upload) What is Shuffle | How to minimize shuffle in Spark | Spark Interview Questions                    |https://youtu.be/TEp7Lkgqg7o	             |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
