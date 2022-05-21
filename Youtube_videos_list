@@ -136,4 +136,13 @@
 |133|Renaming Columns dynamically in a Dataframe in PySpark | Without hardcoding| Realtime scenario                |https://youtu.be/vv9yOm1kKb0	             |
 |134|Adding Columns dynamically to a Dataframe in PySpark | Without hardcoding | Realtime scenario                 |https://youtu.be/_tibdLcxi3s	             |
 |135|(Re-upload) What is Shuffle | How to minimize shuffle in Spark | Spark Interview Questions                    |https://youtu.be/TEp7Lkgqg7o	             |
+|136|Reading Semi-Structured data | Spark with Scala | Realtime scenario                                           |https://youtu.be/Gno4Bj8byTY               |
+|137|Ordering mechanism in Hive | Order by, sory by, dist by, cluster by| Hadoop Interview Questions               |https://youtu.be/pZMTv0090rI               |
+|138|(Re-upload) Renaming Columns dynamically in a Dataframe in PySpark | Without hardcoding                       |https://youtu.be/6eR4f8na1JI               |
+|139|Reading Semi-Structured data in PySpark | Realtime scenario                                                   |https://youtu.be/ClUtdhM15Nw               |
+|140|Splitting the required column data based on the size() in PySpark | Realtime scenario                         |https://youtu.be/oXZ_hFbSXBU               |
+|141|Repartition and Coalesce in Spark | Spark Interview Questions                                                 |https://youtu.be/fcTWYWJlstc               |
+|142|Comparing Lists in Scala | Spark Interview Questions | Realtime scenario                                      |https://youtu.be/R3a-AR7MRQE               |
+|143|Actions in Spark | Collect vs Show vs Take vs foreach | Spark Interview Questions                             |https://youtu.be/YvLe6UnWqX4               |
+|144|Fetching diagonal values in a list in PySpark | Using Window functions | Realtime scenario                    |https://youtu.be/iEP6lXtCFRI               |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
