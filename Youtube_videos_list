@@ -146,4 +146,14 @@
 |143|Actions in Spark | Collect vs Show vs Take vs foreach | Spark Interview Questions                             |https://youtu.be/YvLe6UnWqX4               |
 |144|Fetching diagonal values in a list in PySpark | Using Window functions | Realtime scenario                    |https://youtu.be/wDrk8dUQEbw               |
 |145|Replacing multiple words in a single column based on a list of values  in PySpark |Realtime scenario          |https://youtu.be/xAxIbagoQVM               |
+|146|Runtime architecture in PySpark | PySpark Interview Questions                                                 |https://youtu.be/9tUXMyxIArI               |
+|147|Adding new columns to a Dataframe by comparing another Dataframe in PySpark | Realtime Scenario               |https://youtu.be/Pjor8H2O7_E               |
+|148|Updating diagonal values in a list in PySpark Dataframe  | Realtime Scenario                                  |https://youtu.be/OvdTUv2DdU4               |
+|149|Using when-otherwise in PySpark | Populating Boolean values without when | Realtime Scenario                  |https://youtu.be/dLBegZhGuQM               |
+|150|Displaying duplicate records in PySpark | Using GroupBy | Realtime Scenario                                   |https://youtu.be/Vy4w7dEJppI               |
+|151|RDD Vs Dataframe | From Cluster Point of View | PySpark                                                       |https://youtu.be/ZgYBx4KQhrc               |
+|152|Creating Dataframe from different paths and different file formats | PySpark | Realtime Scenario              |https://youtu.be/UHESE13inpw               |
+|153|Fetching top 3 students based on the scores | PySpark | Realtime Scenario                                     |https://youtu.be/Wrg3dYrDJ2g               |
+|154|Self join in PySpark | Realtime Scenario                                                                      |https://youtu.be/MqxPvZ0S2aQ               |
+|155|Project E2E tools – High level Overview | Apache Spark | Theory                                               |                                           |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
