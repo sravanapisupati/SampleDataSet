@@ -155,5 +155,7 @@
 |152|Creating Dataframe from different paths and different file formats | PySpark | Realtime Scenario              |https://youtu.be/UHESE13inpw               |
 |153|Fetching top 3 students based on the scores | PySpark | Realtime Scenario                                     |https://youtu.be/Wrg3dYrDJ2g               |
 |154|Self join in PySpark | Realtime Scenario                                                                      |https://youtu.be/MqxPvZ0S2aQ               |
-|155|Project E2E tools – High level Overview | Apache Spark | Theory                                               |                                           |
+|155|Project E2E tools – High level Overview | Apache Spark | Theory                                               |https://youtu.be/pn9D2TNNvtM               |
+|156|Converting a single column to multiple rows | Apache PySpark | Realtime Scenario                              |https://youtu.be/X8_os5Hd1Ok               |
+|157|Column-wise comparison of two Dataframes | PySpark | Realtime Scenario                                        |https://youtu.be/-7Ab8BmkLNc               |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
