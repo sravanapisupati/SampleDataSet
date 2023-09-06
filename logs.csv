@@ -1,0 +1,4 @@
+2018-08-01T12:01:00 Web - event=Impression,pid=SAMPLE_PRODUCT_3
+2018-08-01T12:01:00 Web - event=PageView,pid=SAMPLE_PRODUCT_1,price=2000,viewTime=100s
+2018-08-01T12:01:00 Web - event=PageView,pid=SAMPLE_PRODUCT_2,price=1500,viewTime=80s
+2018-08-01T12:01:00 Android - event=AddToCart,pid=SAMPLE_PRODUCT_1
