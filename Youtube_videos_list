@@ -158,4 +158,12 @@
 |155|Project E2E tools – High level Overview | Apache Spark | Theory                                               |https://youtu.be/pn9D2TNNvtM               |
 |156|Converting a single column to multiple rows | Apache PySpark | Realtime Scenario                              |https://youtu.be/X8_os5Hd1Ok               |
 |157|Column-wise comparison of two Dataframes | PySpark | Realtime Scenario                                        |https://youtu.be/-7Ab8BmkLNc               |
+|158|NullPointer Exception while accessing Hive table | PySpark | Realtime Scenario                                |https://youtu.be/DC6sYKS8JZs               |
+|159|Splitting DF single row to multiple rows based on range columns | PySpark | Realtime Scenario                 |https://youtu.be/GorfRS-9Dbg               |
+|160|Caching and Broadcasting | Apache Spark | Interview Questions                                                 |https://youtu.be/IXDJ9yRMDKs               |
+|161|Behavior-Driven Development (BDD) | Behave with Python                                                        |https://youtu.be/mXSfOJNvLJY               |
+|162|Partitioning and Bucketing in Hive - Part 1 | Bigdata Interview Questions                                     |https://youtu.be/8MOsAsNTSe0               |
+|163|Partitioning and Bucketing in Hive - Part 2 | Bigdata Interview Questions                                     |https://youtu.be/j48R1wUa2XQ               |
+|164|Executing Hive queries from Spark | Apache Spark | Interview Questions | Theory                               |https://youtu.be/HC7s-ySoZOc               |
+|165|Directed Acyclic Graph (DAG) | Apache Spark | Spark / Bigdata Interview Questions | Theory                    |https://youtu.be/vK2gAS1W5Iw               |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
