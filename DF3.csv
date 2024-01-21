@@ -1,0 +1,7 @@
+DateTime,Temperature (C),Humidity,Wind Speed (km/h),Pressure (millibars),Summary
+4/1/06 12:00 AM,8.472222222,0.89,14.1197,1015.13,Sunny
+4/1/06 1:00 AM,8.355555556,0.86,14.2646,1015.63,Partly Sunny
+4/1/06 2:00 AM,9.377777778,0.89,3.9284,1015.94,Mostly Cloudy
+4/1/06 3:00 AM,7.288888889,0.83,14.1036,,Partly Cloudy
+4/1/06 4:00 AM,8.755555556,0.83,11.0446,1016.51,Mostly Cloudy
+4/1/06 5:00 AM,9.222222222,0.85,13.9587,1016.66,Rainy
