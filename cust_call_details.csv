@@ -1,0 +1,4 @@
+customer id,customer fname,customer lname,customer.email,customer pwd,customer street,customer city,customer state,zip code,number of orders,voice mail active
+1,Richard,Hernandez,XXXXXXXXX,XXXXXXXXX,6303 Heather Plaza,San Bernardino,TX,78521,25,TRUE
+2,Mary,Barrett,XXXXXXXXX,XXXXXXXXX,9526 Noble Embers Ridge,Littleton,CO,80126,26,TRUE
+3,Ann,Smith,XXXXXXXXX,XXXXXXXXX,3422 Blue Pioneer Bend,Caguas,PR,725,0,FALSE

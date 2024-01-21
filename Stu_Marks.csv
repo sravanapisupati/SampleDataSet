@@ -1,0 +1,13 @@
+Sno,Sname,Sub,Marks
+101,Apple,English,[89,67,98,34,67,55]
+101,Apple,Hindi,[89,67,98,34,67,55]
+101,Apple,Sanskrit,[89,67,98,34,67,55]
+101,Apple,Maths,[89,67,98,34,67,55]
+101,Apple,Science,[89,67,98,34,67,55]
+101,Apple,Social,[89,67,98,34,67,55]
+102,Banana,English,[90,56,88,94,72,61]
+102,Banana,Hindi,[90,56,88,94,72,61]
+102,Banana,Sanskrit,[90,56,88,94,72,61]
+102,Banana,Maths,[90,56,88,94,72,61]
+102,Banana,Science,[90,56,88,94,72,61]
+102,Banana,Social,[90,56,88,94,72,61]
