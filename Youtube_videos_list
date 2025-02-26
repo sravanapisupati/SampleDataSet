@@ -166,4 +166,13 @@
 |163|Partitioning and Bucketing in Hive - Part 2 | Bigdata Interview Questions                                     |https://youtu.be/j48R1wUa2XQ               |
 |164|Executing Hive queries from Spark | Apache Spark | Interview Questions | Theory                               |https://youtu.be/HC7s-ySoZOc               |
 |165|Directed Acyclic Graph (DAG) | Apache Spark | Spark / Bigdata Interview Questions | Theory                    |https://youtu.be/vK2gAS1W5Iw               |
+|166|DAG Vs Lineage in Apache Spark | Spark / Bigdata Interview Questions | Theory                                 |https://youtu.be/nlrdh1HYmx0               |
+|167|SparkContext Vs SparkSession in Apache Spark | Spark / Bigdata Interview Questions | Theory                   |https://youtu.be/gcr2FSkk0c0               |
+|168|Serialization & Deserialization in Spark - Part 1 | Spark / Bigdata Interview Questions | Theory              |https://youtu.be/hG1V82XKYFk               |
+|169|Various Serializations and usages - Part 2 | Spark / Bigdata Interview Questions | Theory                     |https://youtu.be/BH12qpZYv_g               |
+|170|map Vs flatMap in Apache Spark | Spark Interview Questions                                                    |https://youtu.be/tWEMhTjCswQ               |
+|171|Where Vs Filter in Spark SQL | Spark Interview Questions                                                      |https://youtu.be/FN7eYM6smow               |
+|172|Union, UnionAll, UnionByName in PySpark | Spark Interview Questions Series                                    |https://youtu.be/TnKydeWO7Gg               |
+|173|Data Structures and Algorithms | Day 1 - Introduction | Python | Coding Interview Questions                   |https://youtu.be/pH3YkYHV2Vc               |
+|174|Data Structures and Algorithms | Day 2 - Big O | Python | Coding Interview Questions                          |https://youtu.be/8CtTeUbQOAM               |
 +---+--------------------------------------------------------------------------------------------------------------+-------------------------------------------+
